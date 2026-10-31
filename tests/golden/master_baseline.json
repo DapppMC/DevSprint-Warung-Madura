@@ -1,0 +1,18 @@
+{
+  "system": "Warung Madura Stock & Security Manager",
+  "verified_tests": 108,
+  "pass_rate": "100%",
+  "tables": [
+    "product",
+    "supplier",
+    "staff",
+    "user",
+    "rolepermission",
+    "purchaseorder",
+    "goodsreceipt",
+    "sale",
+    "stockmovement",
+    "business"
+  ],
+  "captured_at": "2026-10-24T08:53:24.404409+00:00"
+}
